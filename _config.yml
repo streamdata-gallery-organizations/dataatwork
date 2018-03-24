@@ -1,9 +1,9 @@
-title: Streamdata Gallery
-url: dataatwork.api.streamdata.gallery
+title: Streamdata Gallery DataAtWork
+url: dataatwork.streamdata.gallery
 tag: DataAtWork
 markdown: kramdown
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".DS_Store"]
-github_user: streamdata-gallery-organizations
+github_user: streamdata-gallery
 github_repo: dataatwork
 github_branch: master
 collections:
