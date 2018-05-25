@@ -4,7 +4,7 @@ x-collection-name: DataAtWork
 x-complete: 1
 info:
   title: Open Skills API
-  description: a-complete-and-standard-data-store-for-canonical-and-emerging-skills-knowledge-abilities-tools-technolgies-and-how-they-relate-to-jobs
+  description: a-complete-and-standard-data-store-for-canonical-and-emerging-skills-knowledge-abilities-tools-technolgies-and-how-they-relate-to-jobs-
   contact:
     name: Work Data Initiative
     url: http://www.dataatwork.org
