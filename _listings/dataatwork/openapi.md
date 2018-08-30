@@ -1,4 +1,3 @@
----
 swagger: "2.0"
 x-collection-name: DataAtWork
 x-complete: 1
@@ -263,4 +262,3 @@ paths:
       - Skill
       - Name
       - Normalization
----
